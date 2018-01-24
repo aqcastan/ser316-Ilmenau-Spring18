@@ -2,6 +2,7 @@ Project SER316
 ## Julia proof of change
 ## Sean (sselover) proof of change
 ## Zach (zlmonroe) proof of change
+## Erik (eaisaacs) proof of change
 
 # spring18project
 This is the initial dump for the ser316 spring 2018 project. It is a slightly modified version of the Memoranda project from memoranda.sf.net
