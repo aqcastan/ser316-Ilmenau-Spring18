@@ -25,7 +25,7 @@ public interface Project {
     
     public static final int FROZEN = 4;
     
-    public static final int FAILED = 5;
+    public static final int FAILED = 5; 
     
     String getID();
        
